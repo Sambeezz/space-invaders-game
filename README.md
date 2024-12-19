@@ -5,4 +5,5 @@ Up/Down Arrow Keys: Move your ship vertically.
 Spacebar: Fire your ship’s laser.
 Q key: Quit the game.
 
+I used Pygame library. 
 
